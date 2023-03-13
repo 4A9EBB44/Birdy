@@ -45,6 +45,10 @@
      <Compile Include="Assets/PipeMoveScript.cs" />
      <Compile Include="Assets/PipeMiddleScript.cs" />
      <Compile Include="Assets/PipeSpawnerScript.cs" />
+     <None Include="Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Shaders/Prototype_Glass_Global.shader" />
+     <None Include="Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Shaders/Prototype_Object.shader" />
+     <None Include="Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Shaders/Prototype_Global.shader" />
+     <None Include="Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Shaders/Prototype_Glass_Object.shader" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2022.2.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
